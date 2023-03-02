@@ -1,5 +1,9 @@
 package geolocator;
 
+/**
+ * Command line interface for the {@code geolocator} package.
+ */
+
 public class Main {
 
     public static void main(String[] args) {
